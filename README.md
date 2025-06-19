@@ -16,6 +16,11 @@ This is a Streamlit-based web application that uses an AI-powered conversational
 
 ---
 
+## 🎥 Demo Video
+
+https://github.com/divyamsbriv/Credit-card-recommender/assets/your-github-id/App-record.mp4
+
+
 ## Access app from here
 
 https://my-credit-card-recommender.streamlit.app/
@@ -48,10 +53,6 @@ streamlit run main.py
 - `cards.json` — Sample credit card data (20+ entries)
 - `load_cards.py` — Loads and filters card data
 
-## 🎥 Demo Video
-
-https://github.com/divyamsbriv/Credit-card-recommender/assets/your-github-id/App-record.mp4
-
-## To open in colab
+## To run in colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/divyamsbriv/Credit-card-recommender/blob/main/credit_card_recommender.ipynb)
