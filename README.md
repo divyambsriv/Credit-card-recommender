@@ -46,6 +46,6 @@ streamlit run main.py
 
 ## 🎥 Demo
 
-https://github.com/divyamsbriv/Credit-card-recommender/assets/your-github-id/App video.mp4
+https://github.com/divyamsbriv/Credit-card-recommender/assets/your-github-id/App-record.mp4
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/divyamsbriv/Credit-card-recommender/blob/main/credit_card_recommender.ipynb)
