@@ -16,6 +16,10 @@ This is a Streamlit-based web application that uses an AI-powered conversational
 
 ---
 
+## Access app from here
+
+https://my-credit-card-recommender.streamlit.app/
+
 ## 🛠️ Setup Instructions
 
 1. Clone the repo and install requirements:
