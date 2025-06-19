@@ -48,6 +48,6 @@ streamlit run main.py
 
 https://github.com/divyamsbriv/Credit-card-recommender/assets/your-github-id/App-record.mp4
 
-## to open in colab
+## To open in colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/divyamsbriv/Credit-card-recommender/blob/main/credit_card_recommender.ipynb)
