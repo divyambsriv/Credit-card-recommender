@@ -1,0 +1,190 @@
+[
+  {
+    "name": "HDFC Millennia Credit Card",
+    "issuer": "HDFC Bank",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "reward_type": "Cashback",
+    "reward_rate": "5% on Amazon/Flipkart, 1% others",
+    "eligibility": "Minimum monthly income \u20b925,000",
+    "perks": [
+      "Lounge Access",
+      "Fuel Surcharge Waiver",
+      "Amazon Vouchers"
+    ],
+    "image_url": "https://dummyimages.com/hdfc_millennia.png",
+    "link": "https://dummy-hdfc.com/apply",
+    "tags": [
+      "cashback",
+      "fuel",
+      "lounge access"
+    ]
+  },
+  {
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI Card",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "reward_type": "Reward Points",
+    "reward_rate": "10X on online spends",
+    "eligibility": "Income proof required",
+    "perks": [
+      "Amazon voucher \u20b9500 on joining",
+      "Online spend bonus"
+    ],
+    "image_url": "https://dummyimages.com/sbi_click.png",
+    "link": "https://dummy-sbicard.com/apply",
+    "tags": [
+      "cashback"
+    ]
+  },
+  {
+    "name": "ICICI Amazon Pay Card",
+    "issuer": "ICICI Bank",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "reward_type": "Cashback",
+    "reward_rate": "5% for Prime, 3% for Non-Prime on Amazon",
+    "eligibility": "Minimum income \u20b920,000/month",
+    "perks": [
+      "No expiry on cashback",
+      "Amazon exclusive deals"
+    ],
+    "image_url": "https://dummyimages.com/icici_amazon.png",
+    "link": "https://dummy-icici.com/apply",
+    "tags": [
+      "cashback"
+    ]
+  },
+  {
+    "name": "Axis Flipkart Credit Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "reward_type": "Cashback",
+    "reward_rate": "5% on Flipkart, 4% on preferred merchants",
+    "eligibility": "Monthly income \u20b925,000+",
+    "perks": [
+      "Lounge Access",
+      "OTT Subscription Discounts"
+    ],
+    "image_url": "https://dummyimages.com/axis_flipkart.png",
+    "link": "https://dummy-axis.com/apply",
+    "tags": [
+      "lounge access",
+      "subscriptions"
+    ]
+  },
+  {
+    "name": "IndusInd Platinum Aura Edge",
+    "issuer": "IndusInd Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "reward_type": "Reward Points",
+    "reward_rate": "Up to 4x points on categories",
+    "eligibility": "Stable income required",
+    "perks": [
+      "Movie discounts",
+      "Dining offers"
+    ],
+    "image_url": "https://dummyimages.com/indus_platinum.png",
+    "link": "https://dummy-indusind.com/apply",
+    "tags": [
+      "dining"
+    ]
+  },
+  {
+    "name": "Standard Chartered DigiSmart",
+    "issuer": "Standard Chartered",
+    "joining_fee": 0,
+    "annual_fee": 588,
+    "reward_type": "Discount",
+    "reward_rate": "Up to 20% off on partner brands",
+    "eligibility": "Minimum income \u20b925,000/month",
+    "perks": [
+      "Zomato",
+      "Myntra",
+      "Ola offers"
+    ],
+    "image_url": "https://dummyimages.com/sc_digismart.png",
+    "link": "https://dummy-sc.com/apply",
+    "tags": [
+      "groceries"
+    ]
+  },
+  {
+    "name": "HDFC Regalia Credit Card",
+    "issuer": "HDFC Bank",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "reward_type": "Reward Points",
+    "reward_rate": "4 points/\u20b9150 spent",
+    "eligibility": "Income \u2265 \u20b970,000/month",
+    "perks": [
+      "International Lounge Access",
+      "Travel concierge"
+    ],
+    "image_url": "https://dummyimages.com/hdfc_regalia.png",
+    "link": "https://dummy-hdfc.com/apply",
+    "tags": [
+      "lounge access",
+      "travel"
+    ]
+  },
+  {
+    "name": "SBI Elite Credit Card",
+    "issuer": "SBI Card",
+    "joining_fee": 4999,
+    "annual_fee": 4999,
+    "reward_type": "Reward Points + Gifts",
+    "reward_rate": "Up to 10x points",
+    "eligibility": "\u20b91 Lakh/month income suggested",
+    "perks": [
+      "6 Lounge visits/quarter",
+      "\u20b95,000 welcome gift"
+    ],
+    "image_url": "https://dummyimages.com/sbi_elite.png",
+    "link": "https://dummy-sbi.com/apply",
+    "tags": [
+      "lounge access"
+    ]
+  },
+  {
+    "name": "YES First Preferred",
+    "issuer": "YES Bank",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "reward_type": "Reward Points",
+    "reward_rate": "6 points/\u20b9200",
+    "eligibility": "Income proof required",
+    "perks": [
+      "Lounge Access",
+      "Insurance Cover"
+    ],
+    "image_url": "https://dummyimages.com/yes_preferred.png",
+    "link": "https://dummy-yes.com/apply",
+    "tags": [
+      "lounge access"
+    ]
+  },
+  {
+    "name": "AU Bank Zenith+ Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "joining_fee": 2999,
+    "annual_fee": 2999,
+    "reward_type": "Cashback + Travel",
+    "reward_rate": "Up to 3% cashback",
+    "eligibility": "\u20b950,000/month income",
+    "perks": [
+      "Travel vouchers",
+      "Priority Pass"
+    ],
+    "image_url": "https://dummyimages.com/au_zenith.png",
+    "link": "https://dummy-au.com/apply",
+    "tags": [
+      "cashback",
+      "lounge access",
+      "travel"
+    ]
+  }
+]
