@@ -8,23 +8,13 @@ This is a Streamlit-based web application that uses an AI-powered conversational
 
 ## 🚀 Features
 
-- 🤖 LLM-powered conversation flow using OpenAI API
+- 🤖 LLM-powered conversation
 - 📊 Dynamic credit card filtering based on user inputs
 - 📚 Pre-loaded database of credit cards (`cards.json`)
 - 🧾 Visual comparison of recommended cards
 - 🧠 Designed for quick personalization & high match quality
 
 ---
-
-## 🎥 Demo Video
-
-https://github.com/divyamsbriv/Credit-card-recommender/assets/your-github-id/App-record.mp4
-
-
-## Access app from here
-
-https://my-credit-card-recommender.streamlit.app/
-
 ## 🛠️ Setup Instructions
 
 1. Clone the repo and install requirements:
