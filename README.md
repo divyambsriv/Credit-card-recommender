@@ -22,7 +22,7 @@ This is a Streamlit-based web application that uses an AI-powered conversational
 pip install -r requirements.txt
 ```
 
-2. Add your OpenAI key:
+2. Add your OpenAI/Gemini key:
 Create a file: `.streamlit/secrets.toml`
 ```toml
 OPENAI_API_KEY = "your-key-here"
