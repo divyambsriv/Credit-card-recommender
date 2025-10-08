@@ -26,6 +26,7 @@ pip install -r requirements.txt
 Create a file: `.streamlit/secrets.toml`
 ```toml
 OPENAI_API_KEY = "your-key-here"
+GEMINI_API_KEY = "your-key-here"
 ```
 
 3. Run the app:
